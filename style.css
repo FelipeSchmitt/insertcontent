@@ -76,4 +76,7 @@ select{
 body{
     background-size: 250%;
 }
+footer{
+    width:50px;
+}
 }
